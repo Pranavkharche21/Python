@@ -8,13 +8,13 @@ Building my way from engineering fundamentals to intelligent machines
 Currently exploring :
 
 
-Python programming and problem-solving
+💡 Python programming and problem-solving
 
-AI/ML fundamentals
+💡 AI/ML fundamentals
 
-Robotics and intelligent automation
+💡 Robotics and intelligent automation
 
-Building practical projects and documenting my progress
+💡 Building practical projects and documenting my progress
 
 The goal :  Turn curiosity into working projects, and working projects into real engineering skills
 
