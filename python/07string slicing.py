@@ -17,3 +17,4 @@ print(mystr.isalnum()) # checks if the string is alphanumeric (contains only let
 print(mystr.endswith("bike")) # checks if the string ends with "bike"
 
 print(mystr.count("i")) # counts the number of occurrences of "i" in the string
+ # thank you
